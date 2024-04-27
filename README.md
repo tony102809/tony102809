@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi! 👋
 
+My name is Tony Liu, a computer science student at New York University. I'm currently working on personal full stack projects, learning about AI and NPL, and looking for internship opportunities. 
 <!--
 **tony102809/tony102809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
